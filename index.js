@@ -1,3 +1,3 @@
- window.onclick = function(){
+ window.onclickjdifjdifjudifujidfujzrdiorfujrzsifurzesfiuzrefzrerfr = function(){
 document.write("hennfkvfk");
  }
